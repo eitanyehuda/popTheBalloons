@@ -5,10 +5,10 @@ Description:
 The objective of this game is to pop as many balloons as possible by clicking on them with your mouse. Game ends once no more balloons are left on the screen. Game over screen displays number of balloons poped and message comenting on your performance. press Esc button or close window to exit game.
 
 Requirements:
-<br>1.  Phyton
+<br>1.  Python
 <br>2.  Pygame
 
-*Pygame can also be installed from official pygame site. Follow these instructions if you are having trouble downloading from the website
+*Python and Pygame can be installed from their official websites. Follow these instructions if you are having trouble downloading Pygame
 
 Steps for installing python (ver. 3.5.2) and pygame 
 <br>1. Install python from ---https://www.python.org/downloads/
