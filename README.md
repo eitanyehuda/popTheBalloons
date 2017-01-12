@@ -1,6 +1,8 @@
 # popTheBalloons
 Pop the balloons game - by Eitan Yehuda
 
+![poptheballoons screenshot](https://cloud.githubusercontent.com/assets/23744162/21909413/d4e7200e-d8e5-11e6-86d9-4ef1a84ce6a1.PNG)
+
 Description:
 The objective of this game is to pop as many balloons as possible by clicking on them with your mouse. Game ends once no more balloons are left on the screen. Game over screen displays number of balloons poped and message comenting on your performance. press Esc button or close window to exit game.
 
